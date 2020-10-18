@@ -35,6 +35,8 @@ li{width:col-12;}
 	#John{width:col-12}
 	#Marck{width:col-12}
 	#Juan{width:col-12}
+	#cliente1 {width:col-12}
+	#cliente2 {width:col-12}
 .col-1{width:8.33;}
 .col-2{width:16.66%;}
 .col-3{width:24.99%;}
@@ -50,5 +52,46 @@ li{width:col-12;}
 }
 
 @media only screen and (min-width:600px)
-	
+li{width:col-12;}
+#mision {width:col-12}
+#vision {width:col-12}
+	#John{width:col-12}
+	#Marck{width:col-12}
+	#Juan{width:col-12}
+	#cliente1 {width:col-12}
+	#cliente2 {width:col-12}
+.col-1{width:8.33;}
+.col-2{width:16.66%;}
+.col-3{width:24.99%;}
+.col-4{width:33.32%;}
+.col-5{width:41.65%;}
+.col-6{width:49.98%;}
+.col-7{width:58.31%;}
+.col-8{width:66.64%;}
+.col-9{width:74.97%;}
+.col-10{width:83.30%;}
+.col-11{width:91.63%;}
+.col-12{width: 100%;}
+}	
 @media only screen and (min-width:768px)	
+li{width:col-12;}
+#mision {width:col-12}
+#vision {width:col-12}
+	#John{width:col-12}
+	#Marck{width:col-12}
+	#Juan{width:col-12}
+	#cliente1 {width:col-12}
+	#cliente2 {width:col-12}
+.col-1{width:8.33;}
+.col-2{width:16.66%;}
+.col-3{width:24.99%;}
+.col-4{width:33.32%;}
+.col-5{width:41.65%;}
+.col-6{width:49.98%;}
+.col-7{width:58.31%;}
+.col-8{width:66.64%;}
+.col-9{width:74.97%;}
+.col-10{width:83.30%;}
+.col-11{width:91.63%;}
+.col-12{width: 100%;}
+}
