@@ -30,13 +30,13 @@
 
 @media only screen and (max-width:600px){
 li{width:col-12;}
-#mision {width:col-12}
-#vision {width:col-12}
+#mision {width:col-12;float:left}
+#vision {width:col-12;float:left}
 	#John{width:col-12}
 	#Marck{width:col-12}
 	#Juan{width:col-12}
-	#cliente1 {width:col-12}
-	#cliente2 {width:col-12}
+	#cliente1 {width:col-12;float:left}
+	#cliente2 {width:col-12;float:left}
 .col-1{width:8.33;}
 .col-2{width:16.66%;}
 .col-3{width:24.99%;}
